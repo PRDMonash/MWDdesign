@@ -3,6 +3,7 @@ import pandas as pd
 import os
 import numpy as np
 
+print('test')
 file = "C:/Users/jvan0036/Python/scripts/simulation/Experiments_2022/program/Flowrates_1402_MIXB_FLOWcsv.csv"
 
 class flowrate_csv():
